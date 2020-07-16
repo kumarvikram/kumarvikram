@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Vikram</h1>
+<h1 align="center">Hi there 👋, I'm Vikram</h1>
 <h3 align="center">Full Stack Developer</h3>
 - 💬 Ask me about **C#, .net, JavaScript**
-
 - 📫 Send email at **kumar.vikram@live.com**
-
+**My Skills:**
 <p align="left"><img src=https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg alt=bootstrap width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg alt=csharp width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg alt=dotnet width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=javascript width="20" height="20"/></p><p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=kumarvikram&show_icons=true alt=kumarvikram /> </p>
 
 <p align="center">
