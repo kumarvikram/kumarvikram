@@ -13,7 +13,7 @@
 <p><img src="https://kumarvikram.com/wp-content/uploads/2020/07/microsoft-certified-azure-developer-associate.png" alt="Microsoft Certified: Azure Developer Associate"/><img src="https://kumarvikram.com/wp-content/uploads/2020/07/microsoft-certified-azure-fundamentals.png" alt="Microsoft Certified: Azure Fundamentals"/><img src="https://kumarvikram.com/wp-content/uploads/2014/02/exam-480-programming-in-html5-with-javascript-and-css3-320x320.png" alt="Microsoft Certified: Azure Fundamentals" width="126" height="126"/>
 </p>
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=kumarvikram&show_icons=true alt=kumarvikram /> </p>
+<p align="left"> <img src=https://github-readme-stats.vercel.app/api?username=kumarvikram&show_icons=true alt=kumarvikram /> </p>
 
 <p align="center">
 <a href=https://dev.to/kumarvikram target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg alt="kumarvikram" height="20" width="20" /></a>
